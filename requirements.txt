@@ -1,3 +1,5 @@
-FastAPI
+fastapi
 uvicorn
 python-dotenv
+pytz
+gunicorn

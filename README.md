@@ -59,6 +59,11 @@ You can test the API using a tool like Postman or curl:
 curl http://localhost:8000/
 ```
 
+## Deployment
+
+This API is deployed on Railway and can be accessed at:
+https://hng12backendstage0api-project-production.up.railway.app
+
 ## Head up to HNG Talents pool to meet a lot of skilled developers.
 
 - [Python Developers](https://hng.tech/hire/python-developers)

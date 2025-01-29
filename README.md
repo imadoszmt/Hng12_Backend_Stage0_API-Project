@@ -12,7 +12,7 @@ This project is a simple FastAPI application that serves a public API to retriev
 
 2. Create a virtual environment:
    ```
-   python -m venv venv
+   python3 -m venv venv
    ```
 
 3. Activate the virtual environment:
@@ -27,7 +27,7 @@ This project is a simple FastAPI application that serves a public API to retriev
 
 4. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 5. Run the application:
